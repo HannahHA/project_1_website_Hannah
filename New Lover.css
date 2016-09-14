@@ -1,3 +1,5 @@
+@import url ("https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two");
 h1 {color: #ab47bc ;}
 body {background-color: #e0f7fa;}
-p {color:  #CC0066;}
+p {color:  #CC0066;
+    font-family: 'Shadows Into Light Two', cursive; }
